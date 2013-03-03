@@ -47,7 +47,7 @@ fs.createReadStream(path.resolve(__dirname, file)).pipe(jsonValidate(jsonOpts)).
 
 
 
-This can be used effectively with the 'csv2json-stream' module
+This can be used effectively with the 'csv2json-stream' module, to validate a CSV file
 
 ```node
 
