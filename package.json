@@ -1,13 +1,13 @@
 {
   "name": "json_validator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Define a schema for your json, and validate it ",
   "main": "index.js",
   "directories": {
     "test": "tests"
   },
   "dependencies": {
-    "csv2json-stream": "~0.1.0"
+    "csv2json-stream": "0.x.x"
   },
   "devDependencies": {},
   "scripts": {
