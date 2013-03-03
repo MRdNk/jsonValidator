@@ -1,0 +1,27 @@
+{
+  "name": "json-validate-stream",
+  "version": "0.0.0",
+  "description": "Define a schema for your json, and validate it ",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "csv2json-stream": "~0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MRdNk/jsonValidator.git"
+  },
+  "keywords": [
+    "json",
+    "validator",
+    "schema"
+  ],
+  "author": "mrdnk",
+  "license": "MIT"
+}
