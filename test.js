@@ -16,7 +16,7 @@ var jsonOpts = {
   schema: {
     a: {
         type: "string"
-      , max_length: 5
+      , max_length: 10
     },
     b: {
         type: "string"
@@ -24,7 +24,13 @@ var jsonOpts = {
     },
     c: {
         type: "string"
-      , max_length: 5
+      , max_length: 20
+    },
+    d: {
+        type: "int"
+    },
+    e: {
+        type: "decimal"
     }
   }
 }

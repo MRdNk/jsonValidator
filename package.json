@@ -1,5 +1,5 @@
 {
-  "name": "json-validate-stream",
+  "name": "json_validator",
   "version": "0.0.0",
   "description": "Define a schema for your json, and validate it ",
   "main": "index.js",
